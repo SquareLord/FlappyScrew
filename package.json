@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fontsource/open-sans": "^4.5.13",
+    "@napi-rs/canvas": "^0.1.31",
+    "@types/node": "^18.0.6",
+    "discord.js": "^14.7.1",
+    "node-fetch": "^3.2.6",
+    "sans-serif": "^1.0.0"
+  }
+}
